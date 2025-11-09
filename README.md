@@ -91,7 +91,7 @@ Conclusion: EIP-1153 NOT used in production
 
 During this research, a **valid vulnerability was successfully identified and reported** to the OpenSea Managed Bug Bounty Program, earning **39 points** on the leaderboard.
 
-![OpenSea Bug Bounty Leaderboard](../attached_assets/image_1762701388772.png)
+![OpenSea Bug Bounty Leaderboard](https://github.com/omniscienthet/EIP-1153-Reentrancy-Research-/blob/main/Hall_Of_Fame.png)
 
 **Achievement Highlights:**
 - **Platform:** OpenSea Managed Bug Bounty Program
